@@ -24,3 +24,7 @@ for i in range(1, 101):
   else:
     print(i)
 ```
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+
